@@ -1,6 +1,6 @@
 # denomination_app
 
-A new Flutter project.
+- [https://play.google.com/store/apps/details?id=com.ganpatitechnologies.cashdenomination]This project is a copy of project Cash Denomintaion
 
 ## Getting Started
 
